@@ -1,1 +1,1 @@
-# sl_lab8
+Todo app designed using Angular Material
